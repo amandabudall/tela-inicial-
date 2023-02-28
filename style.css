@@ -11,11 +11,19 @@ body
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: #101141
+    background: #101141;
 }
-h2
+svg
 {
-    position: relative;
+ position: relative;
+ width: 150px;
+ height: 150px;
+}
+.titulo
+{
+    position: absolute;
+    top: 300px;
+    left: 30px;
     font-size: 6em;
     letter-spacing: 15px;
     color: #28295a;
@@ -43,4 +51,5 @@ h2
              0 0 80px #5f03f4,
              0 0 160px #5f03f4;
         }
+
 }     
