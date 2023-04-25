@@ -71,20 +71,20 @@ svg circle
     left: 10px;
     font-size: 6em;
     letter-spacing: 15px;
-    color: #28295a;
+    color: #101141;
     text-transform: uppercase;
     width: 100%;
     text-align: center;
     -webkit-box-reflect: below 1px linear-gradient(transparent,#0004);
     line-height: 0.70em;
     outline: none;
-    animation: animate 4s linear infinite;
+    animation: animate 10s linear;
 }
 @keyframes animate
 {
         0%
         {
-             color: #28295a;
+             color: #101141;
              text-shadow: none;
         }
        100%
