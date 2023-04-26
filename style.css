@@ -78,7 +78,7 @@ svg circle
     -webkit-box-reflect: below 1px linear-gradient(transparent,#0004);
     line-height: 0.70em;
     outline: none;
-    animation: animate 10s linear;
+    animation: animate 5s linear;
 }
 @keyframes animate
 {
